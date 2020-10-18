@@ -1,0 +1,230 @@
+
+    
+ *{
+   
+   margin:0;
+   padding:0;
+   box-sizing:border-box;
+ }
+ 
+ 
+ 
+ 
+ body { margin:0;
+ 
+  padding:0;
+  
+  
+color: black;
+
+  
+  
+        
+        
+}
+
+h1{
+  
+  
+  
+}
+
+
+.img-Jordan
+
+{
+  
+  width:1366px;
+  height:700px;
+background-image:url(https://i.pinimg.com/originals/60/79/99/60799953ea1443515266e85e06efdff6.jpg) ;
+background-size:cover;
+
+background-position:center;
+
+
+}
+
+
+
+
+
+.logo img{
+  
+  float:left;
+  width:200px;
+  height:auto;
+  color:white;
+}
+
+.main{
+  
+  max-width:1200px;
+  margin:auto;
+}
+
+.section-1{
+  
+  height:100vh;
+  background-image:url(https://wallpapercave.com/wp/kjut28e.jpg);
+  background-attachment:fixed;
+  background-size:cover;
+}
+.box{
+  
+  width:100%;
+  height:0px;
+}
+
+.section-2{
+  
+
+}
+
+
+.section-3{
+  
+ height:100vh;
+  background-image:url(https://lasueur.com/wp-content/uploads/2016/02/8374386253_d2ebccca70_o.jpg);
+  background-attachment:fixed;
+  background-size:cover;
+}
+.box{
+  
+  width:100%;
+  height:400px;
+}
+  .section-4{
+  
+  
+    
+  }
+  
+  .section-5{
+    
+     height:100vh;
+  background-image:url(https://image-cdn.essentiallysports.com/wp-content/uploads/20200330230933/MJORDAN.jpg);
+  background-attachment:fixed;
+  background-size:cover;
+  }
+  .box{
+  
+  width:100%;
+  height:400px;
+}
+  
+  .section-6{
+    
+  }
+  
+  .section-7{
+    
+    
+    
+     height:100vh;
+  background-image:url(https://images-na.ssl-images-amazon.com/images/I/91vylnjvnNL._AC_SL1500_.jpg);
+  background-attachment:fixed;
+  background-size:cover;
+  }
+  
+  
+   .box{
+  
+  width:100%;
+  height:400px;
+}
+  .section-8{
+   
+    
+  }
+  
+  .section-9{
+       height:100vh;
+  background-image:url(https://www.denverpost.com/wp-content/uploads/2020/03/GettyImages-1190269289.jpg?w=1024&h=824);
+  background-attachment:fixed;
+  background-size:cover;
+    
+  }
+  
+     .box{
+  
+  width:100%;
+  height:400px;
+}
+  
+  .section-10{
+    
+    
+  }
+  
+   .section-11{
+       height:100vh;
+  background-image:url(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2712bd29493563.55f6ec5e98924.jpg);
+  background-attachment:fixed;
+  background-size:cover;
+    
+  }
+      .box{
+  
+  width:100%;
+  height:400px;
+}
+ 
+  .section-12{
+    
+    
+    
+  }
+  
+  .section-13{
+    
+    height:100vh;
+  background-image:url(https://i.pinimg.com/originals/6d/ac/43/6dac43d930f90754f35ba54a41ee8ea7.jpg);
+  background-attachment:fixed;
+  background-size:cover;
+    
+    
+  }
+  
+  
+  
+  
+  
+  
+  .box p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:20px;
+    margin-top:30px;
+  }
+  .box h1{
+    
+    font-size:60px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow:0px 0px 5px black;
+  }
+
+.box p1{
+  
+  
+    font-size:25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow:0px 0px 2px black;
+  }
+  .box p2{
+    
+    font-size:25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow:0px 0px 2px black;
+    
+  }
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+   
